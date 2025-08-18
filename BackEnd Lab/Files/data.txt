@@ -1,0 +1,3 @@
+Akshit Singh
+This is the Content in the file named data Created by server
+It's being served by Node.js!
