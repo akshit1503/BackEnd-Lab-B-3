@@ -1,0 +1,2 @@
+Q. Use Get request to add in an array? 
+Q. Use Post request to add ID in an array?
